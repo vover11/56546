@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "0",
+            "name" : "root",
             "scale" : [
                 10,
                 10,
@@ -43,7 +43,7 @@
     ],
     "meshes" : [
         {
-            "name" : "root",
+            "name" : "root2",
             "primitives" : [
                 {
                     "attributes" : {
